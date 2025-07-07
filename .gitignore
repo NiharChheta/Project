@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore big data files
+bigdata/
+temp/
+*.zip
+*.mp4
